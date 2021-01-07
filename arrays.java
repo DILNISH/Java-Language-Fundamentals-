@@ -11,11 +11,11 @@ public class arrays {
 		 byte []b = new byte[5];
 		 boolean []b1 = new boolean[5];
 		 
-		 System.out.println(a.getClass().getName());     //[I
-		 System.out.println(d.getClass().getName());     //[D
-		 System.out.println(s.getClass().getName());     //[S
-		 System.out.println(b.getClass().getName());     //[B
-		 System.out.println(b1.getClass().getName());    //[Z
+		 System.out.println(a.getClass().getName());      //[I
+		 System.out.println(d.getClass().getName());      //[D
+		 System.out.println(s.getClass().getName());      //[S
+		 System.out.println(b.getClass().getName());      //[B
+		 System.out.println(b1.getClass().getName());     //[Z
          
 		 
 		 int [][]a1=new int[3][2];
