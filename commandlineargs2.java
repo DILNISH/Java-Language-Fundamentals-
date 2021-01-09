@@ -4,8 +4,8 @@ public class commandlineargs2 {
 		
 		String[] argh= {"a","b","c","d"};
 		args=argh;
-		for(String d: args) {
-			System.out.println(d);
+		for(String s: args) {
+			System.out.println(s);
 		}
 	}
 
