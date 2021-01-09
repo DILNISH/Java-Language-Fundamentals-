@@ -1,0 +1,12 @@
+public class commandlineargs2 {
+
+	public static void main(String[] args) {
+		
+		String[] argh= {"a","b","c","d"};
+		args=argh;
+		for(String d: args) {
+			System.out.println(d);
+		}
+	}
+
+}
